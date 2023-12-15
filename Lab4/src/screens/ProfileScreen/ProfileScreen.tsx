@@ -14,10 +14,10 @@ function ProfileScreen() {
     { title: 'Факультет', description: 'Факультет інформаційних технологій і систем' },
     { title: 'Спеціальність', description: '122 - Компютерні науки' },
     { title: 'Освітня програма', description: 'Компютерні науки' },
-    { title: 'Хобі', description: 'Програмування, спорт, вивчати нове' },
+    { title: 'Хобі', description: 'Програмування, велоспорт, комп. ігри' },
   ];
 
-  const source = require('@app/assets/img/my-photo.png')
+  const source = require('@app/assets/img/my-photo.jpg')
 
   return (
     <>
